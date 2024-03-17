@@ -3,3 +3,5 @@
 # [Kauê Hunnicutt Bazilli](https://bakaq.net)
 
 Physicist interested in computer science, web development, logic programming, music and linguistics.
+
+Open for work.
