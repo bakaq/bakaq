@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakaq&langs_count=12&layout=compact&theme=dracula&exclude_repo=home-manager-config">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakaq&langs_count=12&layout=compact&theme=dracula&exclude_repo=home-manager-config,scryer-lib-docs">
 
 # [Kauê Hunnicutt Bazilli](https://bakaq.net)
 
