@@ -2,6 +2,10 @@
 
 # [Kauê Hunnicutt Bazilli](https://bakaq.net)
 
-Physicist interested in computer science, web development, logic programming, music and linguistics.
+I'm a physicist interested in formal methods, constraint logic programming, music and linguistics.
 
-Open for work.
+Currently pursuing a master's degree in computational physics at [IFSC-USP](https://www2.ifsc.usp.br/portal-ifsc/).
+
+## Open source
+
+- I'm a contributor to [Scryer Prolog](https://github.com/mthom/scryer-prolog), a modern ISO Prolog implementation written in Rust. Recently I've been mostly working in the embedding interfaces for Rust, C and Wasm.
